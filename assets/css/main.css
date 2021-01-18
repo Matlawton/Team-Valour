@@ -29,6 +29,16 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+	.fixedLink a {
+		color: white;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-weight: 900;
+			line-height: 1.5;
+			letter-spacing: 0.075em;
+			text-transform: uppercase;
+			border-right: 10px;		
+	}
+
 body {
 	line-height: 1;
 }
