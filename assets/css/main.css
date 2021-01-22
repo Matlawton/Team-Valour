@@ -36,7 +36,19 @@ footer, header, hgroup, menu, nav, section {
 			line-height: 1.5;
 			letter-spacing: 0.075em;
 			text-transform: uppercase;
-			border-right: 10px;		
+			border-right: 10px;
+			
+	}
+
+	.row {
+		column-count: 3;
+		column-rule: 2px solid black;
+		text-align: center;
+		
+		/* width: 33.33%; */
+  		
+		/* border-right: solid black;
+		border-left: black solid; */
 	}
 
 body {
